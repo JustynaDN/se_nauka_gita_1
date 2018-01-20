@@ -1,3 +1,4 @@
+
 # Nauka Gita
 
 ## Tytul sekcji
@@ -14,3 +15,8 @@ Pierwsze repro git-a
 
 
 [link to Google!](http://google.com)
+praca
+
+zapisz plik
+
+praca
